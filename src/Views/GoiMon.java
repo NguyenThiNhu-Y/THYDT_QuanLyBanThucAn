@@ -376,7 +376,7 @@ public class GoiMon extends javax.swing.JFrame {
         tongTien = new javax.swing.JLabel();
         donHang = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
         setBackground(new java.awt.Color(255, 249, 243));
 
         jScrollPane1.setBackground(new java.awt.Color(255, 249, 243));

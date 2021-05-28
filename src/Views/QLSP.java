@@ -459,7 +459,7 @@ public class QLSP extends javax.swing.JFrame {
         txtDMUpdate = new javax.swing.JTextField();
         btnThemDanhMuc4 = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
 
         jPanel1.setBackground(new java.awt.Color(102, 204, 255));
         jPanel1.setForeground(new java.awt.Color(255, 255, 255));
